@@ -7,7 +7,7 @@
     "start": "webpack serve --mode development",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
   "author": "Omri Uday",
   "license": "ISC",
   "dependencies": {

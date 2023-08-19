@@ -6,7 +6,7 @@ Inspired by the design and functionality of [Agora Website](https://agorareal.co
 
 
 Quick Demo 🎥
-Experience the application live! For a quick demo, [click here](https://rococo-blini-5b9ffc.netlify.app/).
+Experience the application live! For a quick demo, [click here]([https://rococo-blini-5b9ffc.netlify.app/](https://agura-home-assignment.netlify.app/)).
 
 ## Technologies & Libraries 🛠️
 

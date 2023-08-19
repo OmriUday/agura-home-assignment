@@ -2,7 +2,11 @@
 
 ## About the Application 📌
 
-Inspired by the design and functionality of [Agora Real](https://agorareal.com/), this fully-responsive application is tailored for both desktop and mobile users. Its core feature is the dynamic rendering of the Ant Design table on distinct pages, each with unique data and designs. Additionally, users enjoy the flexibility of adjusting column widths via drag-and-drop actions. Every table maintains its unique column configuration, stored in the local storage, ensuring user preferences persist across sessions.
+Inspired by the design and functionality of [Agora Website](https://agorareal.com/), this fully-responsive application is tailored for both desktop and mobile users. Its core feature is the dynamic rendering of the Ant Design table on distinct pages, each with unique data and designs. Additionally, users enjoy the flexibility of adjusting column widths via drag-and-drop actions. Every table maintains its unique column configuration, stored in the local storage, ensuring user preferences persist across sessions.
+
+
+Quick Demo 🎥
+Experience the application live! For a quick demo, [click here](https://rococo-blini-5b9ffc.netlify.app/).
 
 ## Technologies & Libraries 🛠️
 
